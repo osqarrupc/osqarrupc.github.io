@@ -66,7 +66,7 @@
   --orange-yellow-crayola: hsl(45, 100%, 72%);
   --vegas-gold: hsl(45, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
+  --light-gray-70: hsla(0, 0%, 50%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
   /**
@@ -959,7 +959,6 @@ main {
   height: 200px;
   border-radius: 16px;
   overflow: hidden;
-  margin-bottom: 15px;
 }
 
 .project-img::before {
